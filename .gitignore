@@ -1,0 +1,34 @@
+# .gitignore
+# Keeps local editor, OS, and build artifacts out of the public profile repository.
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+tmp/
+temp/
+*.pptx
+*.docx
+
+# Packaged releases, private key containers, and local Office working files
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.gz
+*.pfx
+*.p12
+*.key
+*.pem
+.env
+.env.*
+*.xls
+*.xlsx
+desktop.ini
