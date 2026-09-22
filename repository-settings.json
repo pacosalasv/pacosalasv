@@ -1,5 +1,5 @@
 {
-  "description": "Paco Salas | DRH — software, automation, Blender/3D tools, applied AI, enterprise transformation, and physical-digital products.",
+  "description": "Paco Salas | DRH — software, automation, Blender/3D tools, applied AI, technology education, and connected product workflows.",
   "homepage": "https://github.com/pacosalasv",
   "visibility": "public",
   "has_issues": false,
@@ -14,6 +14,7 @@
     "applied-ai",
     "pmo",
     "3d",
-    "digital-products"
+    "digital-products",
+    "technology-education"
   ]
 }

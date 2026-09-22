@@ -2,12 +2,13 @@
 
 # Paco Salas | DRH
 
-**Software · Automation · Blender/3D · Applied AI · Physical-digital products**
+**Software · Automation · Blender/3D · Applied AI · Technology education · Connected products**
 
 I turn operational friction into practical tools: clearer workflows, better visibility, less repetitive work, and systems that are easier to operate and maintain.
 
 [![Browse DRH add-ons](https://img.shields.io/badge/Browse_DRH_Add--ons-BlendKit-0B1F4D?style=for-the-badge)](https://www.blendkit.com/?query=author_id:205846)
 [![Documentation and support](https://img.shields.io/badge/Docs_&_Support-DRH_Hub-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
+[![KreaOn](https://img.shields.io/badge/KreaOn-Technology%20Education-0B1F4D?style=for-the-badge)](https://www.kreaon.com)
 [![Professional profile](https://img.shields.io/badge/Work_with_me-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/pacosalas)
 [![Support development](https://img.shields.io/badge/Support_DRH-Ko--fi-FF5E5B?style=for-the-badge)](https://ko-fi.com/pacosalasv)
 
@@ -46,6 +47,7 @@ For advisory work, product collaboration, automation, or technical projects, con
 
 | Project | Focus | Link |
 |---|---|---|
+| **KreaOn** | Applied technology education for children and young people, connecting robotics, programming, electronics, digital fabrication, applied AI, automation, and intelligent systems through hands-on projects. | [KreaOn](https://www.kreaon.com) |
 | **Xtreme Mindset** | Product development, automation, strategy, engineering, applied innovation, and practical experiments. | [GitHub](https://github.com/pacosalasv/Xtreme_Mindset) · [Site](https://xtreme-mindset.blogspot.com/) |
 | **PiNu** | Physical 3D collectibles and products connected to browser experiences through NFC, QR, and selected AR. | [PiNu](https://pinu.com.mx/) |
 | **Código Píxel** | Legacy pixel, voxel, 3D, and digital-model work kept as a creative archive. | [GitHub](https://github.com/pacosalasv/Codigo_Pixel) · [Sketchfab](https://sketchfab.com/codigopixel) |
@@ -54,6 +56,12 @@ For advisory work, product collaboration, automation, or technical projects, con
 
 Questions, bug reports, and compatibility feedback belong in the relevant DRH support repository. Video and project updates are available on [YouTube](https://www.youtube.com/channel/UC7VyylydmpAlqRbb_7CB-9Q).
 
-If a free DRH tool saves you time, a rating on BlendKit helps other Blender users find it. Optional development support is available through [Ko-fi](https://ko-fi.com/pacosalasv).
+If a free DRH tool saves you time, a rating on BlendKit helps other Blender users find it. Ko-fi support is optional and helps fund maintenance, Blender compatibility work, documentation, testing, and continued development of free tools.
+
+<div align="center">
+  <a href="https://ko-fi.com/pacosalasv">
+    <img width="520" alt="Support DRH development on Ko-fi" src="docs/media/kofi_donate.png" />
+  </a>
+</div>
 
 <sub>Based in Mexico · Paco Salas | DRH</sub>
