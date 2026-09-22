@@ -1,47 +1,59 @@
+<div align="center">
+
 # Paco Salas | DRH
 
-I build software, automation, Blender/3D tools, applied AI systems, and products that connect physical and digital workflows. My work usually starts with an operational problem: repetitive work, weak visibility, fragmented tools, or a process that needs a clearer way to run.
+**Software · Automation · Blender/3D · Applied AI · Physical-digital products**
 
-My professional background spans strategy execution, PMO and portfolio governance, transformation, operations, process improvement, and program delivery. I use that operating experience to shape tools that are practical to maintain and straightforward to use.
+I turn operational friction into practical tools: clearer workflows, better visibility, less repetitive work, and systems that are easier to operate and maintain.
 
-[DRH Blender Tools](https://github.com/pacosalasv/DRH_Addons_Hub) ·
-[Xtreme Mindset](https://github.com/pacosalasv/Xtreme_Mindset) ·
-[BlendKit](https://www.blendkit.com/?query=author_id:205846) ·
-[PiNu](https://pinu.com.mx/) ·
-[LinkedIn](https://linkedin.com/in/pacosalas) ·
-[YouTube](https://www.youtube.com/channel/UC7VyylydmpAlqRbb_7CB-9Q) ·
-[Ko-fi](https://ko-fi.com/pacosalasv)
+[![Browse DRH add-ons](https://img.shields.io/badge/Browse_DRH_Add--ons-BlendKit-0B1F4D?style=for-the-badge)](https://www.blendkit.com/?query=author_id:205846)
+[![Documentation and support](https://img.shields.io/badge/Docs_&_Support-DRH_Hub-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
+[![Professional profile](https://img.shields.io/badge/Work_with_me-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/pacosalas)
+[![Support development](https://img.shields.io/badge/Support_DRH-Ko--fi-FF5E5B?style=for-the-badge)](https://ko-fi.com/pacosalasv)
 
-## What I work on
-
-Software and automation includes browser extensions, Office tooling, workflow utilities, process automation, and product prototypes. In Blender and 3D, I focus on add-ons, technical utilities, materials, asset workflows, and tools related to 3D printing.
-
-I also explore local and privacy-conscious AI systems for decision support and productivity. On the enterprise side, my work covers strategy execution, portfolio governance, transformation, operations, and delivery systems. Physical-digital projects connect real objects with browser experiences through technologies such as NFC, QR, and selected AR.
+</div>
 
 ## DRH Blender Tools
 
-DRH is the product prefix for my Blender tools. GitHub hosts documentation, issue tracking, compatibility notes, and changelogs. Released packages are distributed through BlendKit when applicable.
+Use BlendKit for released DRH add-ons and GitHub for documentation, support, compatibility notes, changelogs, and public feedback.
 
-| Product | What it covers | Links |
+| Product | What it helps with | Access |
 |---|---|---|
-| DRH - Color Ramp Studio | Color-ramp generation, sampling, conversion, and editing. | [Support](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support) · [BlendKit](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/) |
-| DRH - Add-on Manager & Audit | Add-on inventory, compatibility review, snapshots, maintenance, and reporting. | [Support](https://github.com/pacosalasv/DRH_Addons_Audit-Support) · [BlendKit](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) |
-| DRH - Dual Units & Measurements | Metric/imperial review, measurement context, and scale-aware workflows. | [Support](https://github.com/pacosalasv/DRH_Dual_Units-Support) · [BlendKit](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) |
-| DRH - Object Layout Studio | Complete and Lite editions for alignment, distribution, arrangement, registration, and precision placement. | [Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) · [Complete](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) · [Lite](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) |
-| DRH - Scene Material Inventory | Material, shader-node, image, PBR-map, collection, and report auditing. | [Support](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support) · [BlendKit profile](https://www.blendkit.com/?query=author_id:205846) |
+| **DRH - Color Ramp Studio**<br>Released · v1.0.0 | Build, sample, convert, restore, and refine Color Ramps across Shader, Geometry Nodes, and Compositor workflows. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/) · [Support](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support) |
+| **DRH - Add-on Manager & Audit**<br>Released · v1.0.0 | Audit Blender add-ons, find duplicates and compatibility issues, compare snapshots, maintain setups, and export reports. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) · [Support](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
+| **DRH - Dual Units & Measurements**<br>Released · v1.1.0 | Review metric and imperial values side by side, check scale, and reduce manual unit conversion during modeling. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) · [Support](https://github.com/pacosalasv/DRH_Dual_Units-Support) |
+| **DRH - Object Layout Studio Complete**<br>Released · v1.0.0 | Advanced alignment, distribution, arrangement, orientation, registration, surface placement, and precision layout workflows. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) · [Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
+| **DRH - Object Layout Studio Lite**<br>Released · v1.0.0 | Focused alignment, distribution, arrangement, spacing, movement, rotation, and transform-matching workflows. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) · [Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
+| **DRH - Scene Material Inventory**<br>**Under revision (not approved yet)** | Audit materials, shader nodes, images, PBR maps, collections, and exportable scene reports. | **BlendKit: under revision** · [Support](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support) |
 
-The [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub) lists the full catalog and current development status.
+See the [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub) for the full catalog, roadmap, and current product status.
+
+## Work with me
+
+My professional work combines product building with more than two decades of enterprise transformation, operations, PMO/portfolio governance, process improvement, and program delivery.
+
+| Area | Typical work |
+|---|---|
+| **Software & automation** | Workflow utilities, browser and Office tooling, process automation, prototypes, and internal productivity systems. |
+| **Blender / 3D** | Add-ons, technical utilities, materials, asset workflows, reporting, and tools around real-world scale and 3D printing. |
+| **Applied AI** | Local and privacy-conscious AI workflows for decision support, knowledge work, and productivity. |
+| **Transformation & operations** | Strategy execution, PMO/portfolio governance, operating models, process improvement, and delivery systems. |
+| **Physical + digital** | Product experiences that connect real objects to browser-based interactions through NFC, QR, and selected AR. |
+
+For advisory work, product collaboration, automation, or technical projects, connect with me on [LinkedIn](https://linkedin.com/in/pacosalas).
 
 ## Other work
 
-[Xtreme Mindset](https://github.com/pacosalasv/Xtreme_Mindset) is where I group product development, automation, strategy, engineering, and applied innovation work. Public projects include browser productivity, Office tooling, document/vector concepts, local AI systems, and business automation. The related site is [xtreme-mindset.blogspot.com](https://xtreme-mindset.blogspot.com/).
+| Project | Focus | Link |
+|---|---|---|
+| **Xtreme Mindset** | Product development, automation, strategy, engineering, applied innovation, and practical experiments. | [GitHub](https://github.com/pacosalasv/Xtreme_Mindset) · [Site](https://xtreme-mindset.blogspot.com/) |
+| **PiNu** | Physical 3D collectibles and products connected to browser experiences through NFC, QR, and selected AR. | [PiNu](https://pinu.com.mx/) |
+| **Código Píxel** | Legacy pixel, voxel, 3D, and digital-model work kept as a creative archive. | [GitHub](https://github.com/pacosalasv/Codigo_Pixel) · [Sketchfab](https://sketchfab.com/codigopixel) |
 
-[PiNu](https://pinu.com.mx/) is an independent founder venture built around physical products with browser-based digital experiences using NFC, QR, and selected AR.
+## Community and support
 
-Código Píxel is a legacy creative label for selected pixel, voxel, 3D, and digital-model work. The archive is available on [Sketchfab](https://sketchfab.com/codigopixel).
+Questions, bug reports, and compatibility feedback belong in the relevant DRH support repository. Video and project updates are available on [YouTube](https://www.youtube.com/channel/UC7VyylydmpAlqRbb_7CB-9Q).
 
-## Professional background and contact
+If a free DRH tool saves you time, a rating on BlendKit helps other Blender users find it. Optional development support is available through [Ko-fi](https://ko-fi.com/pacosalasv).
 
-I am based in Mexico. For product, automation, applied AI, enterprise systems, Blender/3D, or physical-digital work, connect through [LinkedIn](https://linkedin.com/in/pacosalas).
-
-Support for DRH development is optional through [Ko-fi](https://ko-fi.com/pacosalasv).
+<sub>Based in Mexico · Paco Salas | DRH</sub>
