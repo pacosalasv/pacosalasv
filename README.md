@@ -30,14 +30,17 @@ See the [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub) for the 
 
 ## Software and productivity tools
 
-These are additional tools in my software portfolio. The supplied builds were used as the reference for the descriptions below; this profile does not publish or mirror their installable files.
+These products use GitHub for public documentation, support, issue tracking, and feedback. Installable builds are kept outside the support repositories.
 
-| Product | Focus |
-|---|---|
-| **DRH Image Optimizer Portable** · v1.5.2 | Portable Windows image optimization and conversion with GUI/CLI workflows, drag-and-drop entry points, metadata controls, safe replacement/rollback, and support for common raster/vector image inputs. |
-| **ExcelXtreme** · v1.0 | Excel productivity add-in with text formatting, case conversion, symbols/status markers, worksheet/workbook utilities, and ribbon-based workflow helpers. |
-| **PowerPXtreme** · v1.0 | PowerPoint productivity add-in with slide creation, notes, alignment/distribution, geometry matching, crop/layout tools, and presentation workflow utilities. |
-| **Browser extensions** | Xtreme Bookmarks 1.19, Xtreme Download All Images 1.21, Xtreme Screen Recorder 1.10, and Xtreme Viewport Pilot 1.7, grouped as browser productivity utilities. |
+| Product | Focus | Access |
+|---|---|---|
+| **DRH Image Optimizer Portable** · v1.5.2 | Portable Windows image optimization and conversion with GUI/CLI workflows, metadata controls, safe replacement/rollback, and multi-format input handling. | [Support](https://github.com/pacosalasv/DRH_Image_Optimizer_Portable-Support) |
+| **ExcelXtreme** · v1.0 | Excel ribbon productivity tools for text, worksheets, calculations, formulas, flowcharts, protection, view/layout, and workflow utilities. | [Support](https://github.com/pacosalasv/ExcelXtreme-Support) |
+| **PowerPXtreme** · v1.0 | PowerPoint productivity tools for Smart Paste, notes, layout, objects, slides, optimization, export, and presentation workflows. | [Support](https://github.com/pacosalasv/PowerPXtreme-Support) |
+| **Xtreme Bookmarks** · v1.19 | Bookmark management with smart search, folder customization, backups, cleanup tools, and HTML export. | [Support](https://github.com/pacosalasv/Xtreme_Bookmarks-Support) |
+| **Xtreme Download All Images** · v1.21 | Extract, filter, convert, rename, queue, and download images from modern websites. | [Support](https://github.com/pacosalasv/Xtreme_Download_All_Images-Support) |
+| **Xtreme Screen Recorder** · v1.10 | Local screen recording with recovery, device selection, audio mixing, regions, camera overlay, and private library workflows. | [Support](https://github.com/pacosalasv/Xtreme_Screen_Recorder-Support) |
+| **Xtreme Viewport Pilot** · v1.7 | Browser testing controls for devices, viewport conditions, network/CPU behavior, and location-oriented testing. | [Support](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support) |
 
 ## Work with me
 
