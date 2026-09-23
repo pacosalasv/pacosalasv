@@ -4,30 +4,40 @@
 
 **Software · Automation · Blender/3D · Applied AI · Technology education · Connected products**
 
-I turn operational friction into practical tools: clearer workflows, better visibility, less repetitive work, and systems that are easier to operate and maintain.
+I build practical tools that reduce repetitive work, improve visibility, and make technical workflows easier to operate, review, and maintain.
 
-[![Browse DRH add-ons](https://img.shields.io/badge/Browse_DRH_Add--ons-BlendKit-0B1F4D?style=for-the-badge)](https://www.blendkit.com/?query=author_id:205846)
-[![Documentation and support](https://img.shields.io/badge/Docs_&_Support-DRH_Hub-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
-[![KreaOn](https://img.shields.io/badge/KreaOn-Technology%20Education-0B1F4D?style=for-the-badge)](https://www.kreaon.com)
-[![Professional profile](https://img.shields.io/badge/Work_with_me-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/pacosalas)
-[![Support development](https://img.shields.io/badge/Support_DRH-Ko--fi-FF5E5B?style=for-the-badge)](https://ko-fi.com/pacosalasv)
+[![Download DRH add-ons](https://img.shields.io/badge/Download-DRH%20Add--ons-0B1F4D?style=for-the-badge)](https://www.blendkit.com/?query=author_id:205846)
+[![Documentation and support](https://img.shields.io/badge/Docs%20%26%20Support-DRH%20Hub-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
+[![KreaOn](https://img.shields.io/badge/KreaOn-Technology%20Education-334155?style=for-the-badge)](https://www.kreaon.com)
+[![Professional profile](https://img.shields.io/badge/Work%20with%20me-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/pacosalas)
 
 </div>
 
 ## DRH Blender Tools
 
-Use BlendKit for released DRH add-ons and GitHub for documentation, support, compatibility notes, changelogs, and public feedback.
+Released DRH add-ons are downloaded from their official product pages. GitHub is the support, documentation, compatibility, changelog, and feedback layer.
 
 | Product | What it helps with | Access |
 |---|---|---|
-| **DRH - Color Ramp Studio**<br>Released · v1.0.0 | Build, sample, convert, restore, and refine Color Ramps across Shader, Geometry Nodes, and Compositor workflows. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/) · [Support](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support) |
-| **DRH - Add-on Manager & Audit**<br>Released · v1.0.0 | Audit Blender add-ons, find duplicates and compatibility issues, compare snapshots, maintain setups, and export reports. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) · [Support](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
-| **DRH - Dual Units & Measurements**<br>Released · v1.1.0 | Review metric and imperial values side by side, check scale, and reduce manual unit conversion during modeling. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) · [Support](https://github.com/pacosalasv/DRH_Dual_Units-Support) |
-| **DRH - Object Layout Studio Complete**<br>Released · v1.0.0 | Advanced alignment, distribution, arrangement, orientation, registration, surface placement, and precision layout workflows. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) · [Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
-| **DRH - Object Layout Studio Lite**<br>Released · v1.0.0 | Focused alignment, distribution, arrangement, spacing, movement, rotation, and transform-matching workflows. | [BlendKit](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) · [Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
-| **DRH - Scene Material Inventory**<br>**Under revision (not approved yet)** | Audit materials, shader nodes, images, PBR maps, collections, and exportable scene reports. | **BlendKit: under revision** · [Support](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support) |
+| **DRH - Color Ramp Studio**<br>Released · v1.0.0 | Build, sample, convert, restore, and refine Color Ramps across Shader, Geometry Nodes, and Compositor workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/) · [Support](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support) |
+| **DRH - Add-on Manager & Audit**<br>Released · v1.0.0 | Audit Blender add-ons, find duplicates and compatibility issues, compare snapshots, maintain setups, and export reports. | [Download](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) · [Support](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
+| **DRH - Dual Units & Measurements**<br>Released · v1.1.0 | Review metric and imperial values side by side, check scale, and reduce manual unit conversion during modeling. | [Download](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) · [Support](https://github.com/pacosalasv/DRH_Dual_Units-Support) |
+| **DRH - Object Layout Studio Complete**<br>Released · v1.0.0 | Advanced alignment, distribution, arrangement, orientation, registration, surface placement, and precision layout workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) · [Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
+| **DRH - Object Layout Studio Lite**<br>Released · v1.0.0 | Focused alignment, distribution, arrangement, spacing, movement, rotation, and transform-matching workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) · [Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
+| **DRH - Scene Material Inventory**<br>**Under revision (not approved yet)** | Audit materials, shader nodes, images, PBR maps, collections, and exportable scene reports. | **Download pending review** · [Support](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support) |
 
-See the [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub) for the full catalog, roadmap, and current product status.
+See the [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub) for the full catalog, roadmap, and development status.
+
+## Software and productivity tools
+
+These are additional tools in my software portfolio. The supplied builds were used as the reference for the descriptions below; this profile does not publish or mirror their installable files.
+
+| Product | Focus |
+|---|---|
+| **DRH Image Optimizer Portable** · v1.5.2 | Portable Windows image optimization and conversion with GUI/CLI workflows, drag-and-drop entry points, metadata controls, safe replacement/rollback, and support for common raster/vector image inputs. |
+| **ExcelXtreme** · v1.0 | Excel productivity add-in with text formatting, case conversion, symbols/status markers, worksheet/workbook utilities, and ribbon-based workflow helpers. |
+| **PowerPXtreme** · v1.0 | PowerPoint productivity add-in with slide creation, notes, alignment/distribution, geometry matching, crop/layout tools, and presentation workflow utilities. |
+| **Browser extensions** | Xtreme Bookmarks 1.19, Xtreme Download All Images 1.21, Xtreme Screen Recorder 1.10, and Xtreme Viewport Pilot 1.7, grouped as browser productivity utilities. |
 
 ## Work with me
 
@@ -47,20 +57,20 @@ For advisory work, product collaboration, automation, or technical projects, con
 
 | Project | Focus | Link |
 |---|---|---|
-| **KreaOn** | Applied technology education for children and young people, connecting robotics, programming, electronics, digital fabrication, applied AI, automation, and intelligent systems through hands-on projects. | [KreaOn](https://www.kreaon.com) |
-| **Xtreme Mindset** | Product development, automation, strategy, engineering, applied innovation, and practical experiments. | [GitHub](https://github.com/pacosalasv/Xtreme_Mindset) · [Site](https://xtreme-mindset.blogspot.com/) |
+| **KreaOn** | Applied technology education connecting robotics, programming, electronics, digital fabrication, applied AI, automation, and intelligent systems through hands-on projects. | [KreaOn](https://www.kreaon.com) |
+| **Xtreme Mindset** | Product development, automation, strategy, engineering, applied innovation, and practical experiments. | [Site](https://xtreme-mindset.blogspot.com/) |
 | **PiNu** | Physical 3D collectibles and products connected to browser experiences through NFC, QR, and selected AR. | [PiNu](https://pinu.com.mx/) |
-| **Código Píxel** | Legacy pixel, voxel, 3D, and digital-model work kept as a creative archive. | [GitHub](https://github.com/pacosalasv/Codigo_Pixel) · [Sketchfab](https://sketchfab.com/codigopixel) |
+| **Código Píxel** | Legacy pixel, voxel, 3D, and digital-model work kept as a creative archive. | [Sketchfab](https://sketchfab.com/codigopixel) |
 
 ## Community and support
 
 Questions, bug reports, and compatibility feedback belong in the relevant DRH support repository. Video and project updates are available on [YouTube](https://www.youtube.com/channel/UC7VyylydmpAlqRbb_7CB-9Q).
 
-If a free DRH tool saves you time, a rating on BlendKit helps other Blender users find it. Ko-fi support is optional and helps fund maintenance, Blender compatibility work, documentation, testing, and continued development of free tools.
+If a free DRH tool saves you time, a rating on its download page helps other users find it. Ko-fi support is optional and helps fund maintenance, Blender compatibility work, documentation, testing, and continued development.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
-    <img width="520" alt="Support DRH development on Ko-fi" src="docs/media/kofi_donate.png" />
+    <img width="620" alt="Support Paco Salas | DRH on Ko-fi" src="docs/media/SupportMe.png" />
   </a>
 </div>
 
