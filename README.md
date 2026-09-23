@@ -6,10 +6,11 @@
 
 I build practical tools that reduce repetitive work, improve visibility, and make technical workflows easier to operate, review, and maintain.
 
+[![Paco Salas | DRH](https://img.shields.io/badge/Paco%20Salas%20%7C%20DRH-Official%20Site-334155?style=for-the-badge)](https://pacosalasv.blogspot.com/)
 [![Download DRH add-ons](https://img.shields.io/badge/Download-DRH%20Add--ons-0B1F4D?style=for-the-badge)](https://www.blendkit.com/?query=author_id:205846)
 [![Documentation and support](https://img.shields.io/badge/Docs%20%26%20Support-DRH%20Hub-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
-[![KreaOn](https://img.shields.io/badge/KreaOn-Technology%20Education-334155?style=for-the-badge)](https://www.kreaon.com)
-[![Professional profile](https://img.shields.io/badge/Work%20with%20me-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/pacosalas)
+[![KreaOn](https://img.shields.io/badge/KreaOn-Technology%20Education-334155?style=for-the-badge)](https://www.kreaon.com/)
+[![Professional profile](https://img.shields.io/badge/Work%20with%20me-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/pacosalas)
 
 </div>
 
@@ -30,17 +31,17 @@ See the [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub) for the 
 
 ## Software and productivity tools
 
-These products use GitHub for public documentation, support, issue tracking, and feedback. Installable builds are kept outside the support repositories.
+A growing set of desktop, Office, and browser tools focused on reducing repetitive work, improving control, and making everyday digital workflows faster. Each product has a dedicated GitHub home for documentation, support, issues, and feedback.
 
 | Product | Focus | Access |
 |---|---|---|
-| **DRH Image Optimizer Portable** · v1.5.2 | Portable Windows image optimization and conversion with GUI/CLI workflows, metadata controls, safe replacement/rollback, and multi-format input handling. | [Support](https://github.com/pacosalasv/DRH_Image_Optimizer_Portable-Support) |
-| **ExcelXtreme** · v1.0 | Excel ribbon productivity tools for text, worksheets, calculations, formulas, flowcharts, protection, view/layout, and workflow utilities. | [Support](https://github.com/pacosalasv/ExcelXtreme-Support) |
-| **PowerPXtreme** · v1.0 | PowerPoint productivity tools for Smart Paste, notes, layout, objects, slides, optimization, export, and presentation workflows. | [Support](https://github.com/pacosalasv/PowerPXtreme-Support) |
-| **Xtreme Bookmarks** · v1.19 | Bookmark management with smart search, folder customization, backups, cleanup tools, and HTML export. | [Support](https://github.com/pacosalasv/Xtreme_Bookmarks-Support) |
-| **Xtreme Download All Images** · v1.21 | Extract, filter, convert, rename, queue, and download images from modern websites. | [Support](https://github.com/pacosalasv/Xtreme_Download_All_Images-Support) |
-| **Xtreme Screen Recorder** · v1.10 | Local screen recording with recovery, device selection, audio mixing, regions, camera overlay, and private library workflows. | [Support](https://github.com/pacosalasv/Xtreme_Screen_Recorder-Support) |
-| **Xtreme Viewport Pilot** · v1.7 | Browser testing controls for devices, viewport conditions, network/CPU behavior, and location-oriented testing. | [Support](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support) |
+| **DRH Image Optimizer Portable** · v1.5.2 | Batch image optimization and conversion with Lossless/Smart/Ultra modes, broad format support, metadata controls, safe rollback, GUI and CLI workflows. | [Support](https://github.com/pacosalasv/DRH_Image_Optimizer_Portable-Support) |
+| **ExcelXtreme** · v1.0 | Turn Excel into a faster workspace with text/data cleanup, worksheet automation, formula and name maintenance, flowcharts, protection, focus tools, object layout, export, and more. | [Support](https://github.com/pacosalasv/ExcelXtreme-Support) |
+| **PowerPXtreme** · v1.0 | Speed up presentation production with Smart Paste, precision layout, Smart Crop, sticky notes, slide maintenance, notes, high-resolution export, and object workflows. | [Support](https://github.com/pacosalasv/PowerPXtreme-Support) |
+| **Xtreme Bookmarks** · v1.19 | Turn a large bookmark collection into a searchable knowledge workspace with tags, favorites, notes, statuses, sidebar access, colors, backup-first cleanup, and broken-link tools. | [Support](https://github.com/pacosalasv/Xtreme_Bookmarks-Support) |
+| **Xtreme Download All Images** · v1.21 | Discover modern web images deeply, filter by metadata, de-duplicate content, convert formats, control naming, queue jobs, preview results, and package large collections. | [Support](https://github.com/pacosalasv/Xtreme_Download_All_Images-Support) |
+| **Xtreme Screen Recorder** · v1.10 | Local-first screen recording with camera/audio mixing, region capture, high-quality presets, scene overlays, recovery, local conversion, reliability monitoring, and a private library. | [Support](https://github.com/pacosalasv/Xtreme_Screen_Recorder-Support) |
+| **Xtreme Viewport Pilot** · v1.7 | Responsive-testing cockpit with device profiles, synchronized LAB sessions, network/CPU/location conditions, custom profiles, and multi-device comparison. | [Support](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support) |
 
 ## Work with me
 
@@ -54,14 +55,14 @@ My professional work combines product building with more than two decades of ent
 | **Transformation & operations** | Strategy execution, PMO/portfolio governance, operating models, process improvement, and delivery systems. |
 | **Physical + digital** | Product experiences that connect real objects to browser-based interactions through NFC, QR, and selected AR. |
 
-For advisory work, product collaboration, automation, or technical projects, connect with me on [LinkedIn](https://linkedin.com/in/pacosalas).
+For a broader view of my work, visit [Paco Salas | DRH](https://pacosalasv.blogspot.com/). For advisory work, product collaboration, automation, or technical projects, connect with me on [LinkedIn](https://www.linkedin.com/in/pacosalas).
 
 ## Other work
 
 | Project | Focus | Link |
 |---|---|---|
-| **KreaOn** | Applied technology education connecting robotics, programming, electronics, digital fabrication, applied AI, automation, and intelligent systems through hands-on projects. | [KreaOn](https://www.kreaon.com) |
-| **Xtreme Mindset** | Product development, automation, strategy, engineering, applied innovation, and practical experiments. | [Site](https://xtreme-mindset.blogspot.com/) |
+| **KreaOn** | Applied technology education connecting robotics, programming, electronics, digital fabrication, applied AI, automation, and intelligent systems through hands-on projects. | [KreaOn](https://www.kreaon.com/) |
+| **Xtreme Mindset** | Product development, automation, strategy, engineering, applied innovation, and practical experiments. | [Site](https://xtrememindset.blogspot.com/) |
 | **PiNu** | Physical 3D collectibles and products connected to browser experiences through NFC, QR, and selected AR. | [PiNu](https://pinu.com.mx/) |
 | **Código Píxel** | Legacy pixel, voxel, 3D, and digital-model work kept as a creative archive. | [Sketchfab](https://sketchfab.com/codigopixel) |
 
