@@ -20,12 +20,12 @@ Released DRH add-ons are downloaded from their official product pages. GitHub is
 
 | Product | What it helps with | Access |
 |---|---|---|
-| **DRH - Color Ramp Studio**<br>Released · v1.0.0 | Build, sample, convert, restore, and refine Color Ramps across Shader, Geometry Nodes, and Compositor workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/) · [Support](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support) |
+| **DRH - Color Ramp Studio**<br>Released · v1.1.0 | Build, sample, convert, restore, and refine Color Ramps across Shader, Geometry Nodes, and Compositor workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/) · [Support](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support) |
 | **DRH - Add-on Manager & Audit**<br>Released · v1.0.0 | Audit Blender add-ons, find duplicates and compatibility issues, compare snapshots, maintain setups, and export reports. | [Download](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) · [Support](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
 | **DRH - Dual Units & Measurements**<br>Released · v1.1.0 | Review metric and imperial values side by side, check scale, and reduce manual unit conversion during modeling. | [Download](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) · [Support](https://github.com/pacosalasv/DRH_Dual_Units-Support) |
 | **DRH - Object Layout Studio Complete**<br>Released · v1.0.0 | Advanced alignment, distribution, arrangement, orientation, registration, surface placement, and precision layout workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) · [Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
 | **DRH - Object Layout Studio Lite**<br>Released · v1.0.0 | Focused alignment, distribution, arrangement, spacing, movement, rotation, and transform-matching workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) · [Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
-| **DRH - Scene Material Inventory**<br>**Under revision (not approved yet)** | Audit materials, shader nodes, images, PBR maps, collections, and exportable scene reports. | **Download pending review** · [Support](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support) |
+| **DRH - Scene Material Inventory**<br>Released · v1.0.0 | Audit materials, shader nodes, images, PBR maps, collections, and exportable scene reports. | [Download](https://www.blendkit.com/asset-gallery-detail/8225a754-32cd-482d-a0d3-84ea3850fc8f/) · [Support](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support) |
 
 See the [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub) for the full catalog, roadmap, and development status.
 
