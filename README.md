@@ -1,51 +1,76 @@
 <div align="center">
 
-# Paco Salas | DRH
+# Paco Salas | DRH - Xtreme Mindset
 
-**Software · Automation · Blender/3D · Applied AI · Technology education · Connected products**
+**Software · Automation · Blender/3D · Applied AI · Technology Education · Connected Products**
 
-I build practical tools that reduce repetitive work, improve visibility, and make technical workflows easier to operate, review, and maintain.
+I build practical tools that remove repetitive work, make technical workflows easier to control, and turn useful ideas into working products.
 
-[![Paco Salas | DRH](https://img.shields.io/badge/Paco%20Salas%20%7C%20DRH-Official%20Site-334155?style=for-the-badge)](https://pacosalasv.blogspot.com/)
-[![Download DRH add-ons](https://img.shields.io/badge/Download-DRH%20Add--ons-0B1F4D?style=for-the-badge)](https://www.blendkit.com/?query=author_id:205846)
-[![Documentation and support](https://img.shields.io/badge/Docs%20%26%20Support-DRH%20Hub-1E5BFF?style=for-the-badge)](https://github.com/pacosalasv/DRH_Addons_Hub)
-[![KreaOn](https://img.shields.io/badge/KreaOn-Technology%20Education-334155?style=for-the-badge)](https://www.kreaon.com/)
-[![Professional profile](https://img.shields.io/badge/Work%20with%20me-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/pacosalas)
+### Start here
+
+[![Work with me](https://img.shields.io/badge/WORK%20WITH%20ME-LINKEDIN-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/pacosalas)
+[![Download DRH](https://img.shields.io/badge/DOWNLOAD%20DRH-BLENDKIT-1597E5?style=for-the-badge)](https://www.blendkit.com/?query=author_id:205846)
+[![Support the work](https://img.shields.io/badge/SUPPORT%20THE%20WORK-KOFI-FF5E5B?style=for-the-badge)](https://ko-fi.com/pacosalasv)
+
+### Explore
+
+[![Paco Salas DRH](https://img.shields.io/badge/PACO%20SALAS%20%7C%20DRH-OFFICIAL%20SITE-334155?style=flat-square)](https://pacosalasv.blogspot.com/)
+[![Xtreme Mindset](https://img.shields.io/badge/XTREME%20MINDSET-PRODUCT%20LAB-7C3AED?style=flat-square)](https://xtrememindset.blogspot.com/)
+[![KreaOn](https://img.shields.io/badge/KREAON-TECH%20EDUCATION-16A34A?style=flat-square)](https://www.kreaon.com/)
+[![Sketchfab](https://img.shields.io/badge/SKETCHFAB-3D%20MODELS-1CAAD9?style=flat-square)](https://sketchfab.com/codigopixel/collections)
+[![DRH Hub](https://img.shields.io/badge/DRH%20HUB-DOCS%20%26%20SUPPORT-0B1F4D?style=flat-square)](https://github.com/pacosalasv/DRH_Addons_Hub)
+[![GitHub](https://img.shields.io/badge/GITHUB-PROJECTS-181717?style=flat-square)](https://github.com/pacosalasv)
 
 </div>
 
-## DRH Blender Tools
+## DRH Blender tools
 
-Released DRH add-ons are downloaded from their official product pages. GitHub is the support, documentation, compatibility, changelog, and feedback layer.
+Released DRH add-ons are downloaded from their official BlendKit product pages. GitHub is the documentation, support, compatibility, changelog, and feedback layer.
+
+The order below favors the tools with the strongest current public discovery signals on BlendKit, then newer or more focused releases.
 
 | Product | What it helps with | Access |
 |---|---|---|
+| **DRH - Object Layout Studio Complete**<br>Released · v1.0.0 | Align, distribute, arrange, orient, register, place, and precisely position objects with both everyday and geometry-aware workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) · [Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
 | **DRH - Color Ramp Studio**<br>Released · v1.1.0 | Build, sample, convert, restore, and refine Color Ramps across Shader, Geometry Nodes, and Compositor workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/62ac725e-c55e-4e26-9e39-f6b81432d962/) · [Support](https://github.com/pacosalasv/DRH_Color_Ramp_Studio-Support) |
-| **DRH - Add-on Manager & Audit**<br>Released · v1.0.0 | Audit Blender add-ons, find duplicates and compatibility issues, compare snapshots, maintain setups, and export reports. | [Download](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) · [Support](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
 | **DRH - Dual Units & Measurements**<br>Released · v1.1.0 | Review metric and imperial values side by side, check scale, and reduce manual unit conversion during modeling. | [Download](https://www.blendkit.com/asset-gallery-detail/6fdca217-16ce-4771-bd1f-3aba38f48858/) · [Support](https://github.com/pacosalasv/DRH_Dual_Units-Support) |
-| **DRH - Object Layout Studio Complete**<br>Released · v1.0.0 | Advanced alignment, distribution, arrangement, orientation, registration, surface placement, and precision layout workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/63177030-cdb4-45ae-8bec-76a3ee48d151/) · [Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
-| **DRH - Object Layout Studio Lite**<br>Released · v1.0.0 | Focused alignment, distribution, arrangement, spacing, movement, rotation, and transform-matching workflows. | [Download](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) · [Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
+| **DRH - Add-on Manager & Audit**<br>Released · v1.0.0 | Audit Blender add-ons, find duplicates and compatibility issues, compare snapshots, maintain setups, and export reports. | [Download](https://www.blendkit.com/asset-gallery-detail/89fe5b10-df59-4940-b66e-8e8114e9fd53/) · [Support](https://github.com/pacosalasv/DRH_Addons_Audit-Support) |
 | **DRH - Scene Material Inventory**<br>Released · v1.0.0 | Audit materials, shader nodes, images, PBR maps, collections, and exportable scene reports. | [Download](https://www.blendkit.com/asset-gallery-detail/8225a754-32cd-482d-a0d3-84ea3850fc8f/) · [Support](https://github.com/pacosalasv/DRH_Scene_Material_Inventory-Support) |
+| **DRH - Object Layout Studio Lite**<br>Released · v1.0.0 | Keep the everyday layout essentials: alignment, spacing, distribution, movement, rotation, and transform matching. | [Download](https://www.blendkit.com/asset-gallery-detail/0b1494ca-c801-4cbf-9783-46ddbcf0090f/) · [Support](https://github.com/pacosalasv/DRH_Object_Layout_Studio-Support) |
 
-See the [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub) for the full catalog, roadmap, and development status.
+Browse the full catalog and roadmap in the [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub), or open the complete [DRH catalog on BlendKit](https://www.blendkit.com/?query=author_id:205846).
 
-## Software and productivity tools
+## Xtreme productivity tools
 
-A growing set of desktop, Office, and browser tools focused on reducing repetitive work, improving control, and making everyday digital workflows faster. Each product has a dedicated GitHub home for documentation, support, issues, and feedback.
+These tools are built for people who spend enough time in Office, browsers, media, and repetitive digital workflows to notice every unnecessary click.
 
-| Product | Focus | Access |
+### Supporter access
+
+Office Xtreme and browser tools are shared directly with supporters instead of through a public download link. If a tool fits your workflow, [support development on Ko-fi](https://ko-fi.com/pacosalasv) and include **the product name and the email address where you want to receive it** in your message. I will send the current available build directly.
+
+This keeps distribution personal, gives supporters a direct path to the current build, and makes it easier to connect product feedback with the people actually using the tools.
+
+| Product | Why people use it | Access |
 |---|---|---|
-| **DRH Image Optimizer Portable** · v1.5.2 | Batch image optimization and conversion with Lossless/Smart/Ultra modes, broad format support, metadata controls, safe rollback, GUI and CLI workflows. | [Support](https://github.com/pacosalasv/DRH_Image_Optimizer_Portable-Support) |
-| **ExcelXtreme** · v1.0 | Turn Excel into a faster workspace with text/data cleanup, worksheet automation, formula and name maintenance, flowcharts, protection, focus tools, object layout, export, and more. | [Support](https://github.com/pacosalasv/ExcelXtreme-Support) |
-| **PowerPXtreme** · v1.0 | Speed up presentation production with Smart Paste, precision layout, Smart Crop, sticky notes, slide maintenance, notes, high-resolution export, and object workflows. | [Support](https://github.com/pacosalasv/PowerPXtreme-Support) |
-| **Xtreme Bookmarks** · v1.19 | Turn a large bookmark collection into a searchable knowledge workspace with tags, favorites, notes, statuses, sidebar access, colors, backup-first cleanup, and broken-link tools. | [Support](https://github.com/pacosalasv/Xtreme_Bookmarks-Support) |
-| **Xtreme Download All Images** · v1.21 | Discover modern web images deeply, filter by metadata, de-duplicate content, convert formats, control naming, queue jobs, preview results, and package large collections. | [Support](https://github.com/pacosalasv/Xtreme_Download_All_Images-Support) |
-| **Xtreme Screen Recorder** · v1.10 | Local-first screen recording with camera/audio mixing, region capture, high-quality presets, scene overlays, recovery, local conversion, reliability monitoring, and a private library. | [Support](https://github.com/pacosalasv/Xtreme_Screen_Recorder-Support) |
-| **Xtreme Viewport Pilot** · v1.7 | Responsive-testing cockpit with device profiles, synchronized LAB sessions, network/CPU/location conditions, custom profiles, and multi-device comparison. | [Support](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support) |
+| **ExcelXtreme** · v1.0 | Turn Excel into a faster working environment with cleanup, formulas, names, worksheets, flowcharts, protection, focus tools, object layout, export, and high-frequency automation in one Ribbon. | [Request current build](https://ko-fi.com/pacosalasv) · [Support](https://github.com/pacosalasv/ExcelXtreme-Support) |
+| **PowerPXtreme** · v1.0 | Produce presentations faster with Smart Paste, precision layouts, Smart Crop, sticky notes, slide maintenance, speaker-note tools, and high-resolution export. | [Request current build](https://ko-fi.com/pacosalasv) · [Support](https://github.com/pacosalasv/PowerPXtreme-Support) |
+| **DRH Image Optimizer Portable** · v1.5.2 | Batch-optimize and convert images with Lossless, Smart, and Ultra modes, broad format support, metadata controls, GUI/CLI workflows, and safe replacement. | [Request current build](https://ko-fi.com/pacosalasv) · [Support](https://github.com/pacosalasv/DRH_Image_Optimizer_Portable-Support) |
+| **Xtreme Screen Recorder** · v1.10 | Record screen, camera, and audio with region capture, presets up to 4K/60, overlays, local conversion, recovery, and a private local library. | [Request current build](https://ko-fi.com/pacosalasv) · [Support](https://github.com/pacosalasv/Xtreme_Screen_Recorder-Support) |
+| **Xtreme Bookmarks** · v1.19 | Turn a large bookmark collection into a searchable workspace with tags, favorites, notes, statuses, sidebar access, visual folders, and cleanup tools. | [Request current build](https://ko-fi.com/pacosalasv) · [Support](https://github.com/pacosalasv/Xtreme_Bookmarks-Support) |
+| **Xtreme Download All Images** · v1.21 | Discover and filter images from modern pages, remove duplicates, convert formats, control naming, queue jobs, preview results, and package large collections. | [Request current build](https://ko-fi.com/pacosalasv) · [Support](https://github.com/pacosalasv/Xtreme_Download_All_Images-Support) |
+| **Xtreme Viewport Pilot** · v1.7 | Test responsive layouts across synchronized device viewports with device profiles, network/CPU/location conditions, DPR, touch, rotation, and custom labs. | [Request current build](https://ko-fi.com/pacosalasv) · [Support](https://github.com/pacosalasv/Xtreme_Viewport_Pilot-Support) |
+
+More product work, experiments, and technical notes live at [Xtreme Mindset](https://xtrememindset.blogspot.com/).
+
+## 3D models and Sketchfab
+
+Browse the [Código Píxel collections on Sketchfab](https://sketchfab.com/codigopixel/collections) for selected pixel, voxel, 3D, fabrication, and creative model work.
+
+If you need a model for your own project, [support the work on Ko-fi](https://ko-fi.com/pacosalasv) and include **the model name or Sketchfab URL plus the email address where you want to receive it**. If that model is available for direct distribution, I will send the current package directly.
 
 ## Work with me
 
-My professional work combines product building with more than two decades of enterprise transformation, operations, PMO/portfolio governance, process improvement, and program delivery.
+My professional work combines product building with more than two decades of enterprise transformation, operations, PMO and portfolio governance, process improvement, and program delivery.
 
 | Area | Typical work |
 |---|---|
@@ -57,20 +82,24 @@ My professional work combines product building with more than two decades of ent
 
 For a broader view of my work, visit [Paco Salas | DRH](https://pacosalasv.blogspot.com/). For advisory work, product collaboration, automation, or technical projects, connect with me on [LinkedIn](https://www.linkedin.com/in/pacosalas).
 
-## Other work
+## Ecosystem
 
-| Project | Focus | Link |
+| Destination | Best use | Link |
 |---|---|---|
-| **KreaOn** | Applied technology education connecting robotics, programming, electronics, digital fabrication, applied AI, automation, and intelligent systems through hands-on projects. | [KreaOn](https://www.kreaon.com/) |
-| **Xtreme Mindset** | Product development, automation, strategy, engineering, applied innovation, and practical experiments. | [Site](https://xtrememindset.blogspot.com/) |
-| **PiNu** | Physical 3D collectibles and products connected to browser experiences through NFC, QR, and selected AR. | [PiNu](https://pinu.com.mx/) |
-| **Código Píxel** | Legacy pixel, voxel, 3D, and digital-model work kept as a creative archive. | [Sketchfab](https://sketchfab.com/codigopixel) |
+| **Work with me** | Advisory work, transformation, automation, software, and product collaboration. | [LinkedIn](https://www.linkedin.com/in/pacosalas) |
+| **Support the work** | Help fund maintenance, documentation, testing, and new product development. | [Ko-fi](https://ko-fi.com/pacosalasv) |
+| **DRH downloads** | Released Blender add-ons and the wider DRH asset catalog. | [BlendKit](https://www.blendkit.com/?query=author_id:205846) |
+| **DRH support** | Documentation, Issues, Discussions, compatibility notes, and roadmaps. | [DRH Add-ons Hub](https://github.com/pacosalasv/DRH_Addons_Hub) |
+| **Paco Salas \| DRH** | Personal and professional work, ideas, code, and projects. | [Official site](https://pacosalasv.blogspot.com/) |
+| **Xtreme Mindset** | Product lab for software, automation, browser tools, Office tools, 3D, and applied technology. | [Xtreme Mindset](https://xtrememindset.blogspot.com/) |
+| **Sketchfab / Código Píxel** | 3D model collections and creative archive. | [Sketchfab](https://sketchfab.com/codigopixel/collections) |
+| **KreaOn** | Hands-on technology education across robotics, programming, electronics, fabrication, AI, and automation. | [KreaOn](https://www.kreaon.com/) |
+| **PiNu** | Connected physical products that open browser experiences through NFC, QR, and selected AR. | [PiNu](https://pinu.com.mx/) |
+| **GitHub** | Public source, support repositories, roadmaps, and technical documentation. | [pacosalasv on GitHub](https://github.com/pacosalasv) |
 
 ## Community and support
 
-Questions, bug reports, and compatibility feedback belong in the relevant DRH support repository. Video and project updates are available on [YouTube](https://www.youtube.com/channel/UC7VyylydmpAlqRbb_7CB-9Q).
-
-If a free DRH tool saves you time, a rating on its download page helps other users find it. Ko-fi support is optional and helps fund maintenance, Blender compatibility work, documentation, testing, and continued development.
+Questions, bug reports, and compatibility feedback belong in the relevant support repository. If a DRH tool saves you time, a rating on its BlendKit page helps other Blender users find it. Product feedback also helps decide what gets maintained and improved next.
 
 <div align="center">
   <a href="https://ko-fi.com/pacosalasv">
@@ -78,4 +107,4 @@ If a free DRH tool saves you time, a rating on its download page helps other use
   </a>
 </div>
 
-<sub>Based in Mexico · Paco Salas | DRH</sub>
+<sub>Based in Mexico · Paco Salas | DRH · Xtreme Mindset</sub>
